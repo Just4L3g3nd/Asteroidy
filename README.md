@@ -1,6 +1,6 @@
 # Asteroidy
 Do gry dodano: \
--Pasek zdrowia \
+-Pasek zdrowia asteroid \
 -Broń gwiazdki \
 -Broń autonamierzaną \
 -Broń potrójną 
